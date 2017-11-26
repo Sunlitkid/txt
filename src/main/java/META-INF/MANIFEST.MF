@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: fastjson-1.2.34.jar
+Main-Class: com.sunlitkid.Mainx
+
